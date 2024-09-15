@@ -18,4 +18,8 @@ This website helps to convert your text to speech and you will get output in spe
               - Using JavaScript functionality only the text that the user
                 types at the input is converted to the speech
                 and the user can listen to it at the output side.
+
+
+   The Platform is live at - www.VoiceWiz.com
+   
       
